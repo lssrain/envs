@@ -1,0 +1,30 @@
+[2020-12-03 00:01:48,105]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 00:01:48,285]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 00:01:48,751]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 00:01:49,524]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 00:01:50,391]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品
+[2020-12-03 00:02:05,039]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 00:02:05,228]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 00:02:05,755]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 00:02:06,485]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 00:02:07,306]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品
+[2020-12-03 00:02:22,382]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 00:02:22,557]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 00:02:23,068]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 00:02:23,777]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 00:02:24,722]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品
+[2020-12-03 18:05:37,186]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 18:05:37,403]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 18:05:38,201]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 18:05:38,865]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 18:05:39,652]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品
+[2020-12-03 18:05:54,001]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 18:05:54,157]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 18:05:54,512]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 18:05:55,170]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 18:05:55,922]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品
+[2020-12-03 18:06:10,099]-loggers.py[line:40]-fuc:__console-INFO:登录点击：xpath_login,//*[@id="app"]/div[1]/header/div/div[1]/button
+[2020-12-03 18:06:10,253]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_phone,weui-input,18320762135
+[2020-12-03 18:06:10,604]-loggers.py[line:40]-fuc:__console-INFO:登录输入：elements_class_name_code,weui-input,123456
+[2020-12-03 18:06:11,269]-loggers.py[line:40]-fuc:__console-INFO:登录点击：class_name_confirm,weui-btn
+[2020-12-03 18:06:12,065]-loggers.py[line:40]-fuc:__console-INFO:登录成功断言：+ 推荐更多商品

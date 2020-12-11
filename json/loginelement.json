@@ -1,0 +1,6 @@
+{
+  "xpath_login":"//*[@id=\"app\"]/div[1]/header/div/div[1]/button",
+  "elements_class_name_phone":"weui-input",
+  "elements_class_name_code":"weui-input",
+  "class_name_confirm":"weui-btn"
+}
