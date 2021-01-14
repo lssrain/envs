@@ -1,5 +1,6 @@
 import os
 import sys
+
 curPath = os.path.abspath(os.path.dirname(__file__))
 rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
@@ -12,7 +13,7 @@ from common.chromedriver import *
 from common.configLogin import *
 
 driver = None
-chromedriver=chromedriver()
+chromedriver = chromedriver()
 
 
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
@@ -41,6 +42,7 @@ def pytest_runtest_makereport(item, call):
             with allure.step('添加失败截图...'):
                 allure.attach(driver.get_screenshot_as_png(), "失败截图", allure.attachment_type.PNG)
 
+
 # def get_picture():
 #     file_name='{}.png'.format(time.strftime('%Y_%m_%d_%H_%M_%S'))
 #     return driver.get_screenshot_as_flie(file_name)
@@ -52,14 +54,13 @@ def browser():
     :return:
     '''
     global driver
-    driver=webdriver.Chrome(chromedriver)
+    driver = webdriver.Chrome(chromedriver)
     driver.maximize_window()
     driver.get('http://dev.wechat.tianhong.cn/scm-app/')
     time.sleep(2)
     yield driver
     driver.quit()
     return driver
-
 
 # @pytest.fixture(scope='class', autouse=True)
 # def drivers():
@@ -74,8 +75,3 @@ def browser():
 #     yield driver
 #     driver.quit()
 #     return driver
-
-
-
-
-

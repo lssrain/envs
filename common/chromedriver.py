@@ -1,5 +1,6 @@
 import os
 
+
 def chromedriver():
     '''
     获取驱动路径
@@ -13,6 +14,7 @@ def chromedriver():
     # print(driverpath)
     return driverpath
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     # chromedriver()
     pass
