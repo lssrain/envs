@@ -40,7 +40,7 @@ class Testscmapp:
         run.eventsend_keys(class_name_code()[0], class_name_code()[1], userinfo.code(), 1)
         run.eventclick(class_name_confirm()[0], class_name_confirm()[1])
 
-        time.sleep(2)
+        time.sleep(3)
         Method(browser).swipe()
         time.sleep(3)
 
