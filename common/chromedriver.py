@@ -14,4 +14,5 @@ def chromedriver():
     return driverpath
 
 if __name__=='__main__':
-    chromedriver()
+    # chromedriver()
+    pass
